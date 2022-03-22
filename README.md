@@ -36,4 +36,4 @@ $ expo run
 
 Once the client is running, you can click the "Perform Key Exchange" button to create a key exchange with the server.
 
-![Screen shot](backupbrain/diffie-hellman-test/blob/main/client/client/clien-screenshot.png)
+![Screen shot](https://github.com/backupbrain/diffie-hellman-test/blob/main/client/client-screenshot.png)
